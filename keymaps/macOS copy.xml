@@ -1,10 +1,14 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="ActivateGitHubCopilotChatToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="DebugClass" />
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>

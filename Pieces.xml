@@ -1,0 +1,5 @@
+<application>
+  <component name="MyApplicationService">
+    <option name="onboarded" value="true" />
+  </component>
+</application>

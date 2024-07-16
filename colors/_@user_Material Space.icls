@@ -21,6 +21,8 @@
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
   </colors>

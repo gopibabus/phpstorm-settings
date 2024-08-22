@@ -52,5 +52,6 @@
   </component>
   <component name="UISettings">
     <option name="CONTRAST_SCROLLBARS" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>

@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="FileChooser.GoToParent" />
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />

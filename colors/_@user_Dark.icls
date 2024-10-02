@@ -1,4 +1,5 @@
 <scheme name="_@user_Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2024.2.0.0</property>
@@ -6,4 +7,8 @@
     <property name="partialSave">true</property>
     <property name="pluginId">com.intellij</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="2.0" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Inter-Regular" />
+  <option name="EDITOR_LIGATURES" value="true" />
 </scheme>

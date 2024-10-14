@@ -8,13 +8,7 @@
     <property name="pluginId">com.intellij</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.5" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Inter-Regular" />
   <option name="EDITOR_LIGATURES" value="true" />
 </scheme>
